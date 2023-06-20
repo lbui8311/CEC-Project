@@ -1,5 +1,5 @@
 # CEC-Project
-  
+- Project Documentation: [Link](https://docs.google.com/document/d/1ZVeErLV5I14-h9sT_UbJA4bQZVvymYg5_uDjkZ2uUYA/edit?usp=sharing)
 ## Contributers:
 1. [Luan Bui](https://github.com/lbui8311)
 2. [Lars Fischer](https://github.com/lafis002)
